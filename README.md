@@ -2,6 +2,8 @@
 
 Data - เป็น Folder ที่รวมรวม dataset ทั้งหมดในงานนี้ เช่น Dataset ถามตอบทางกฎหมายเเละ Dataset ข้อสอบทางกฎหมาย
 
+Documentation - เป็น Folder ที่รวมรวมเอกสารทางกฎหมายไว้ใช้ตอน RAG
+
 Notebook - เป็น Folder ที่รวบรวม notebook ที่ใช้งานบ่อยๆ เช่น Evaluation llm โดยใช้ BERTScore เเละ ROUGE score
 
 Retreival - รวมโค๊ด RAG
